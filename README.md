@@ -9,8 +9,13 @@ Additionally, you will learn about agentic search, which returns multiple answer
 In detail:
 
 ✅ Build an agent from scratch, and understand the division of tasks between the LLM and the code around the LLM.
+
 ✅ Implement the agent you built using LangGraph.
+
 ✅ Learn how agentic search retrieves multiple answers in a predictable format, unlike traditional search engines that return links.
+
 ✅ Implement persistence in agents, enabling state management across multiple threads, conversation switching, and the ability to reload previous states.
+
 ✅ Incorporate human-in-the-loop into agent systems.
+
 ✅ Develop an agent for essay writing, replicating a researcher's workflow working on this task.
